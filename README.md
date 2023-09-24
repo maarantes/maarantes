@@ -28,4 +28,6 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maarantes&show_icons=true&theme=dark&title_color=F72585&icon_color=00F5D4&custom_title=Marco's&nbsp;Github&nbsp;Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maarantes&layout=compact&theme=dark&title_color=F72585)(https://github.com/maarantes/github-readme-stats)
+<a href="https://github.com/maarantes/convoychat">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maarantes&layout=compact&theme=dark&title_color=F72585&langs_count=8" />
+</a>
